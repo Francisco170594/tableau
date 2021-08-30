@@ -1,8 +1,7 @@
-# Tableau Analysis link 
-(https://public.tableau.com/app/profile/francisco3243/viz/CityBikeStory_16302753306800/CityBikeStory?publish=yes)
-
-
 # Tableau
+
+## Tableau Analysis link 
+(https://public.tableau.com/app/profile/francisco3243/viz/CityBikeStory_16302753306800/CityBikeStory?publish=yes)
 
 ## oVERVIEW
 Turning our sight at the mythic city of New York, we will evaluate the NYC citybike share program, as we take a closer look at it's pieces we'll use this information to bring insights on how a similar 

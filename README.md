@@ -1,12 +1,10 @@
 # NYC CitiBike Analysis
 
-## Tableau Analysis link 
+## Dashboard link 
 (https://public.tableau.com/app/profile/francisco3243/viz/CityBikeStory_16302753306800/CityBikeStory?publish=yes)
 
-## oVERVIEW
-Turning our sight at the mythic city of New York, we will evaluate the NYC citybike share program, as we take a closer look at it's pieces we'll use this information to bring insights on how a similar 
-businees can be successful in Des Moines, Iowa. 
-Once our analysis is completed we'll present this idea to potential investors, showing them key aspects of a thriving industry.
+## Overview
+Using Tableau software, we will create diferent visualizations using NYC Citibike data, with the purpose of understanding trends among users. Once our analysis is completed we'll present our findings to potential investors, showing them key aspects of a thriving industry.
 
 ## Results
 
